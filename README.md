@@ -12,4 +12,4 @@ The catch being in collecting the digits of the passcode, he has to face various
 
 An bonus, with the answers you get to view the various celestial body models and interact with them, learning their key features.
 
-Here is a short presentation describing our project - <a href = https://www.canva.com/design/DAErpibonOA/S6krWApnMq64Hgx45xgEng/view?utm_content=DAErpibonOA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#7>Stellarus</a>.
+Here is a short presentation describing our project - <a href = "https://www.canva.com/design/DAErpibonOA/S6krWApnMq64Hgx45xgEng/view?utm_content=DAErpibonOA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#7">Stellarus</a>.
