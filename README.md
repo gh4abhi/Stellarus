@@ -13,3 +13,18 @@ The catch being in collecting the digits of the passcode, he has to face various
 An bonus, with the answers you get to view the various celestial body models and interact with them, learning their key features.
 
 Here is a short presentation describing our project - <a href = "https://www.canva.com/design/DAErpibonOA/S6krWApnMq64Hgx45xgEng/view?utm_content=DAErpibonOA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Stellarus</a>.
+
+### Link To Project "Demo"
+See the demo of the project here - <a href = "https://www.youtube.com/watch?v=gCCdO02hn9c&ab_channel=ApoorvaTandon">Stellarus</a>
+
+### Space Agency Data
+We used the NASA space Agency Data for curating the questions and the answer slides also have information directly linked to various projects and findings from NASA'S official site. We have also used 3d models and the key information points about them from the agency data.
+
+### Hackathon Journey
+It was a kind of fantasy world for these very 48-hours hackathon. Creating, coding, building, animating for several hours and then improvising it every next second just to avoid any loophole anywhere. Our complete team bornes an immense fondness for space science. And finally we were given a platform where we had to put our best forward in every aspect. This was the very first time we worked with VR(Virtual Reality), so it proved to be a bit challenging to deal with all those plugins and debugging C# scripts. It took us day and night to present our project "Stellarus" on a level we wished to. We are extremely glad to fight, code, develop till the very end and were able to pull this off.  
+
+### References
+To start with we have used various 360 degree videos of outer space in addition to the scenes we have created. The interactive quiz section has its base all around the planets and the space missions accomplishments by NASA. The 3D models which we have used to enhance the learning experience, also belongs to NASA findings.
+
+### Tags
+#unity #vr #gamedevelopment #blender #phtotshop #3dmoldes
