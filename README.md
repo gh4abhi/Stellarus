@@ -1,2 +1,3 @@
 # Stellarus
 
+##  HIGH-LEVEL PROJECT SUMMARY
